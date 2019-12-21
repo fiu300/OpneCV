@@ -1,0 +1,7 @@
+use_cache "/home/dida/Desktop/OpneCV/opencv/sources/.cache"
+do_unpack "ippicv_2017u3_lnx_intel64_general_20170822.tgz" "4e0352ce96473837b1d671ce87f17359" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/dfe3162c237af211e98b8960018b564bc209261d/ippicv/ippicv_2017u3_lnx_intel64_general_20170822.tgz" "/home/dida/Desktop/OpneCV/opencv/3rdparty/ippicv"
+#cmake_download "/home/dida/Desktop/OpneCV/opencv/sources/.cache/ippicv/4e0352ce96473837b1d671ce87f17359-ippicv_2017u3_lnx_intel64_general_20170822.tgz" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/dfe3162c237af211e98b8960018b564bc209261d/ippicv/ippicv_2017u3_lnx_intel64_general_20170822.tgz"
+# Could not resolve host: raw.githubusercontent.com
+# Closing connection 0
+# 
+
